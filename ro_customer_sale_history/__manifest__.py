@@ -30,5 +30,5 @@
         'static/description/banner.png',
     ],
     'currency': 'USD',
-    'price': 25.15,
+    'price': 15.15,
 }
