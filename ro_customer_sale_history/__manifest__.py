@@ -17,7 +17,7 @@
     'license': "AGPL-3",
 
     'category': 'Sales',
-    'version': '13.0.1.0.0',
+    'version': '14.0.1.0.0',
 
     # any module necessary for this one to work correctly
     'depends': ['sale_management'],
@@ -30,5 +30,5 @@
         'static/description/banner.png',
     ],
     'currency': 'USD',
-    'price': 15.15,
+    'price': 18.15,
 }
